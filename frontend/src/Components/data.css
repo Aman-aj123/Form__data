@@ -1,0 +1,13 @@
+.main{
+     margin-top: 40px;
+     margin-left: 10px;
+}
+.user-items{
+    margin-bottom: 20px;
+}
+
+.UserDetails li {
+     list-style: none;
+     font-size: 20px;
+     margin-bottom: 2px;
+}
